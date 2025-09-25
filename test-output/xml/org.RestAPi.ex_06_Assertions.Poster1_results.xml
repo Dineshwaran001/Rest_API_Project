@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Rest_API_Project"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.677">
+    <properties></properties>
+
+
+
+            <testcase
+                name="post_Request_Update"
+                time="10.677"
+                classname="org.RestAPi.ex_06_Assertions.Poster1">
+            </testcase>
+</testsuite>

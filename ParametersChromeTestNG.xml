@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pin code Checking Project">
+    <test verbose="2" name="Rest_API_Project">
+
+        <parameter name="browser" value="chrome"></parameter>
+
+        <classes>
+            <class name="org.RestAPi.ex_05_TestNGExamples.Lab19_Parameters_TestNG">
+                <methods>
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pin code Checking Project">
+    <test verbose="2" name="Rest_API_Project">
+
+
+
+        <classes>
+            <class name="org.RestAPi.ex_06_Assertions.Lab24_RestAssured_Assertions">
+                <methods>
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
